@@ -1,0 +1,51 @@
+body{
+    background-color: #1E2A2B;
+    color: beige;
+}
+body header{
+    background-image:url(IMG/background.jpg);
+    background-repeat: repeat-x;
+    width: auto;
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    border: 100px;
+    height: 200px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.title{
+    border-top: 100px;
+    padding-top: 75px;
+}
+
+.h1{
+    text-align: center;
+}
+
+.right{
+    float: right;
+    width: 29%;
+    padding-top: 30px;
+    padding-right: 3%;
+}
+
+.left{
+    float: left;
+    width: 65%;
+}
+
+.red{
+    background-color: #630909
+}
+table{
+    border-color: #633636;
+}
+
+body footer{
+    color: #242F31;
+    width: 100%;
+    font-size: 8px;
+}
