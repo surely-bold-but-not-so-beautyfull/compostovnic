@@ -1,0 +1,50 @@
+body{
+    
+    font-family: roboto; 
+   
+}
+
+
+#container{
+    width: 1000px;
+     margin: 0 auto;
+}
+
+.title{
+  
+    color: dimgrey;
+    text-align: center;
+    font-size: 30px;
+    font-family: roboto;
+}
+
+.title h1{
+    font-family: cabin;
+}
+
+
+
+
+
+
+.exp{
+    background-color: cornflowerblue;
+    padding: 1px 5px;
+    margin: -5px;
+}
+
+
+
+
+
+
+
+span{
+    background-color: cornflowerblue;
+    display: inline-block;
+}
+
+.contact{
+    color: dimgrey;
+    list-style-type:square;
+}
